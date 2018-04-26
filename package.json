@@ -17,7 +17,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Polaris Theme",
+        "label": "Polaris Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/polaris-dark.json"
       }

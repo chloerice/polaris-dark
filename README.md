@@ -1,7 +1,7 @@
 ![Polaris Dark Theme]('../PolarisDarkThemeScreenshot.png)
 
 # Getting started
-You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme).
+You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=chloerice.polaris-dark).
 
 ## Installation
 
@@ -12,7 +12,7 @@ Launch *Quick Open*
 
 Paste the following command and press `Enter`:
 ```shell
-ext install vsc-polaris-theme
+ext install polaris-dark
 ```
 
 ## Activate theme
@@ -22,4 +22,4 @@ Launch *Quick Open*
   - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘P`
   - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl+P`
 
-Type `Polaris Theme` and select the theme.
+Type `Polaris Dark` and select the theme.
