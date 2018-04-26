@@ -1,22 +1,26 @@
 {
-    "name": "polaris-theme",
-    "displayName": "Polaris Theme",
-    "description": "Shopify Polaris based theme for VSCode",
-    "version": "0.0.1",
-    "publisher": "andy-fang",
-    "engines": {
-        "vscode": "^1.14.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Polaris Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/polaris-theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "polaris-theme",
+  "displayName": "Polaris Theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chloerice/polaris-dark"
+  },
+  "description": "Shopify Polaris based theme for VSCode",
+  "version": "0.0.1",
+  "publisher": "chloerice",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Polaris Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/polaris-theme-color-theme.json"
+      }
+    ]
+  }
 }
