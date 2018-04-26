@@ -1,4 +1,4 @@
-![Polaris Dark Theme]('../Polaris Dark Theme Screenshot.png)
+![Polaris Dark Theme]('../PolarisDarkThemeScreenshot.png)
 
 # Getting started
 You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme).
