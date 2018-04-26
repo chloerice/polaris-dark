@@ -1,5 +1,5 @@
 {
-  "name": "polaris-theme",
+  "name": "polaris-dark",
   "displayName": "Polaris Dark",
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
       {
         "label": "Polaris Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/polaris-theme-color-theme.json"
+        "path": "./themes/polaris-dark.json"
       }
     ]
   }
