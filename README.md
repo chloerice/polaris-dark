@@ -1,4 +1,4 @@
-![screen shot 2017-08-09 at 9 34 39 am]("https://user-images.githubusercontent.com/18447883/39301798-50136a2c-4905-11e8-82ef-082e9a8550c8.png")
+![Theme Screenshot]("https://user-images.githubusercontent.com/18447883/39301798-50136a2c-4905-11e8-82ef-082e9a8550c8.png")
 
 # Getting started
 You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme).
